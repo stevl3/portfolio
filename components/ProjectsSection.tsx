@@ -27,7 +27,7 @@ const projects = [
       "StayMate is a React and Firebase web app that helps Airbnb guests access check-in info and property managers track issues.",
     image: "/staymate.png",
     github: "",
-    link: "",
+    link: "https://staycozy.vercel.app/checkin/T7d9kKMsB2",
   },
 ];
 
