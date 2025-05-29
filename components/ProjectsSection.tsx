@@ -19,7 +19,7 @@ const projects = [
       "CreditCardGuard is a Python ML app using scikit-learn and SMOTE to detect fraudulent transactions in financial data.",
     image: "/creditcardgaurd.png",
     github: "",
-    link: "",
+    link: "https://stevl3.github.io/CreditCardGaurd/",
   },
   {
     name: "StayMate",
