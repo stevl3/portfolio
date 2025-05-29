@@ -10,7 +10,7 @@ const projects = [
     description:
       "Bankly is a full-stack Next.js app for secure online banking with real-time transfers, account sync, and Stripe-powered payments.",
     image: "/bankly2.png",
-    github: "",
+    github: "https://github.com/stevl3/Bank.git",
     link: "",
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     description:
       "CreditCardGuard is a Python ML app using scikit-learn and SMOTE to detect fraudulent transactions in financial data.",
     image: "/creditcardgaurd.png",
-    github: "",
+    github: "https://github.com/stevl3/CreditCardGaurd.git",
     link: "https://stevl3.github.io/CreditCardGaurd/",
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     description:
       "StayMate is a React and Firebase web app that helps Airbnb guests access check-in info and property managers track issues.",
     image: "/staymate.png",
-    github: "",
+    github: "https://github.com/stevl3/staycozy.git",
     link: "https://staycozy.vercel.app/checkin/T7d9kKMsB2",
   },
 ];
