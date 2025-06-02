@@ -14,6 +14,22 @@ const projects = [
     link: "",
   },
   {
+    name: "Immigrant Document Translator",
+    description:
+      "Transluvia is a Next.js web app that uses Google Cloud Vision and Translate APIs to convert scanned immigrant documents into any language instantly, helping bridge language gaps for underserved communities.",
+    image: "/transluvia.png",
+    github: "https://github.com/stevl3/Transluvia",
+    link: "",
+  },
+  {
+    name: "Financial Document Simplifier",
+    description:
+      "Financial Simplifier is a React web app that uses OCR and the OpenAI API to instantly summarize complex financial documents, helping users understand contracts, statements, and disclosures.",
+    image: "/financial.png",
+    github: "",
+    link: "",
+  },
+  {
     name: "CreditCardGaurd",
     description:
       "CreditCardGuard is a Python ML app using scikit-learn and SMOTE to detect fraudulent transactions in financial data.",
