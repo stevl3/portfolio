@@ -10,8 +10,8 @@ const projects = [
     description:
       "Bankly is a full-stack Next.js app for secure online banking with real-time transfers, account sync, and Stripe-powered payments.",
     image: "/bankly2.png",
-    github: "https://github.com/stevl3/Bank.git",
-    link: "",
+    github: "https://github.com/stevl3/bankly.git",
+    link: "https://banklybank.vercel.app/dashboard",
   },
   {
     name: "Immigrant Document Translator",
