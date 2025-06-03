@@ -19,7 +19,7 @@ const projects = [
       "Transluvia is a Next.js web app that uses Google Cloud Vision and Translate APIs to convert scanned immigrant documents into any language instantly, helping bridge language gaps for underserved communities.",
     image: "/transluvia.png",
     github: "https://github.com/stevl3/Transluvia",
-    link: "",
+    link: "https://transluvia.vercel.app/demo",
   },
   {
     name: "Financial Document Simplifier",
