@@ -26,8 +26,8 @@ const projects = [
     description:
       "Financial Simplifier is a React web app that uses OCR and the OpenAI API to instantly summarize complex financial documents, helping users understand contracts, statements, and disclosures.",
     image: "/financial.png",
-    github: "",
-    link: "",
+    github: "https://github.com/stevl3/Financial-Document-Simplifier",
+    link: "https://findocsimp.vercel.app/",
   },
   {
     name: "CreditCardGaurd",
