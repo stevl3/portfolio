@@ -6,7 +6,7 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
   {
-    name: "Bankly",
+    name: "Production Banking Platform",
     description:
       "Bankly is a full-stack Next.js app for secure online banking with real-time transfers, account sync, and Stripe-powered payments.",
     image: "/bankly2.png",
